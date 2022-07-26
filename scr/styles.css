@@ -176,3 +176,9 @@
 .footer {
   margin: 100px;
 }
+
+.link-github {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
