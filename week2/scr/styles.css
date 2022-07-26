@@ -1,0 +1,178 @@
+.header {
+  margin-top: 20px;
+}
+
+.btn-search {
+  font-size: 15px;
+  text-transform: uppercase;
+  background-color: blueviolet;
+  color: blanchedalmond;
+  border-radius: 2px;
+  padding: 10px 50px;
+}
+
+.form-control {
+  padding: 10px 50px 10px 10px;
+  border-radius: 2px;
+}
+
+.city {
+  padding-top: 10px;
+  text-align: left;
+}
+
+.paris {
+  text-align: center;
+}
+
+.city a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+}
+
+.temperature {
+  background-color: blueviolet;
+  padding: 50px 20px;
+  max-width: 50%;
+  margin-top: 30px;
+  border-radius: 2px;
+}
+
+.city-main-name,
+.city-main-temp {
+  color: white;
+  font-size: 45px;
+  font-weight: 800;
+}
+
+.city-info,
+.city-sky {
+  color: white;
+  font-size: 17px;
+}
+
+.music-recom {
+  margin-top: 30px;
+  padding: 30px 0px;
+  background-color: rgb(255, 255, 255);
+  max-width: 100%;
+  border-radius: 2px;
+}
+
+.music-block {
+  background-color: blueviolet;
+  color: white;
+  max-width: 48%;
+  padding: 30px 0px;
+  display: flex;
+}
+
+.music-name,
+.info-head {
+  font-size: 17px;
+  font-weight: 800;
+  margin: 15px 0px 5px 20px;
+  text-transform: uppercase;
+}
+
+.music-playlist,
+.info-text {
+  font-size: 17px;
+  margin-left: 20px;
+}
+
+.playlist-play {
+  margin-top: 15px;
+  margin-left: 20px;
+  max-width: 100%;
+  display: flex;
+}
+
+.block-recomendations {
+  margin-left: 20px;
+  padding: 30px 0px;
+  background-color: rgb(77, 104, 99);
+  color: white;
+  max-width: 48%;
+  border-radius: 2px;
+  display: flex;
+}
+
+.like-icon {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+.card-img-top {
+  width: 90px;
+  padding: 20px;
+}
+
+.card-small-text-minus {
+  color: brown;
+}
+
+.card-small-text-plus {
+  color: green;
+}
+
+.weather-details,
+.ic-weather,
+.card-title {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+
+
+}
+
+.weather-details .card-title {
+  text-transform: uppercase;
+}
+
+.weather-week .card-title,
+.card-text {
+  text-align: center;
+  color: azure;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.weather-week {
+  margin-top: 25px;
+}
+
+.ic-weather {
+  font-size: 55px;
+  text-align: center;
+}
+
+.weather-week .card,
+.graphic {
+  background: rgb(48, 48, 48);
+}
+
+.graphic {
+  margin-top: 20px;
+}
+
+.history-head {
+  color: azure;
+  font-size: 30px;
+  text-align: left;
+  margin-top: 55px;
+  text-transform: uppercase;
+}
+
+.img-history {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 55px;
+}
+
+.footer {
+  margin: 100px;
+}
